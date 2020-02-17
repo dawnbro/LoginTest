@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2deeb</color>
+    <color name="colorPrimaryDark">#a8e8ea</color>
+    <color name="colorAccent">#f40d0d</color>
+
+    <color name="appPastelPink">#f2deeb</color>
+    <color name="appPastelBlue">#a8e8ea</color>
+</resources>
